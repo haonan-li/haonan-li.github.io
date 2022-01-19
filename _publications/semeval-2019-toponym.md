@@ -2,9 +2,11 @@
 title: "UniMelb at SemEval-2019 Task 12: Multi-model combination for toponym resolution"
 collection: publications
 permalink: /publication/semeval-2019-toponym
+year: 2019
 date: 2019-06-06
-venue: 'Proceedings of the 13th International Workshop on Semantic Evaluation'
+venue: 'Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval)'
 paperurl: 'https://aclanthology.org/S19-2231.pdf'
+author: '<b>Haonan Li</b>, Minghan Wang, Maria Vasardani, Martin Tomko, Timothy Baldwin'
 ---
 
 ```

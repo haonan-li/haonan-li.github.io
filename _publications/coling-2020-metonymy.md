@@ -2,9 +2,11 @@
 title: "Target Word Masking for Location Metonymy Resolution"
 collection: publications
 permalink: /publication/coling-2020-metonymy
+year: 2020
 date: 2020-11-08
-venue: 'Proceedings of the 28th International Conference on Computational Linguistics'
+venue: 'Proceedings of the 28th International Conference on Computational Linguistics (COLING)'
 paperurl: 'https://aclanthology.org/2020.coling-main.330/'
+author: '<b>Haonan Li</b>, Maria Vasardani, Martin Tomko, Timothy Baldwin'
 ---
 
 ```

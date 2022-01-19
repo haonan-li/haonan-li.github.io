@@ -2,9 +2,11 @@
 title: "KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning"
 collection: publications
 permalink: /publication/emnlp-2021-kfcnet
+year: 2021
 date: 2021-10-16
-venue: 'Findings of the Association for Computational Linguistics: EMNLP 2021'
+venue: 'Findings of the Association for Computational Linguistics (EMNLP)'
 paperurl: 'https://aclanthology.org/2021.findings-emnlp.249/'
+author: '<b>Haonan Li</b>, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan'
 ---
 
 ```

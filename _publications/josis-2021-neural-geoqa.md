@@ -2,9 +2,11 @@
 title: "Neural Factoid Geospatial Question Answering"
 collection: publications
 permalink: /publication/josis-2021-neural-geoqa
+year: 2021
 date: 2021-12-24
-venue: 'Journal of Spatial Information Science'
+venue: 'Journal of Spatial Information Science (JOSIS)'
 paperurl: 'https://josis.org/index.php/josis/article/view/159'
+author: '<b>Haonan Li</b>, Ehsan Hamzei, Ivan Majic, Hua Hua, Jochen Renz, Martin Tomko, Maria Vasardani, Stephen Winter, Timothy Baldwin'
 ---
 
 ```

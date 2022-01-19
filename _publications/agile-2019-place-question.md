@@ -2,9 +2,11 @@
 title: "Place Questions and Human-Generated Answers: A Data Analysis Approach"
 collection: publications
 permalink: /publication/agile-2019-place-question
+year: 2019
 date: 2019-07-17
-venue: 'AGILE Conference on Geographic Information Science'
+venue: 'AGILE Conference on Geographic Information Science (AGILE)'
 paperurl: 'https://www.researchgate.net/profile/Martin-Tomko/publication/332447526_Place_Questions_and_Human-Generated_Answers_A_Data_Analysis_Approach/links/5cbfa5ac92851c8d22005698/Place-Questions-and-Human-Generated-Answers-A-Data-Analysis-Approach.pdf'
+author: 'Ehsan Hamzei, <b>Haonan Li</b>, Maria Vasardani, Timothy Baldwin, Stephan Winter, Martin Tomko'
 ---
 
 ```
