@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-CV can be downloaded [here]()
+CV can be downloaded [here](/files/CV_LHN_academic.pdf).
 
 Education
 ======
