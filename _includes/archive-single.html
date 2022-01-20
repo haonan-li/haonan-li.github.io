@@ -51,7 +51,7 @@
     {% endif %}
     
     {% if post.collection == 'publications' %}
-    <p>{{ post.author }} <a href="{{ post.paperurl }}"><u>{{ post.title }}</u></a>. In <i>{{ post.venue }}</i>, {{ post.year }}, &#91;<a href="{{ base_path }}{{ post.url }}" rel="permalink"><u>More info</u></a>&#93;</p>
+    <p>{{ post.author }} <a href="{{ post.paperurl }}">{{ post.title }}</a>. In <i>{{ post.venue }}</i>, {{ post.year }}, &#91;<a href="{{ base_path }}{{ post.url }}" rel="permalink">More info</a>&#93;</p>
     {% endif %}
 
     {% if post.collection != 'publications' and post.citation and post.paperurl %}
