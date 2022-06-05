@@ -1,7 +1,7 @@
 ---
 title: "Place Questions and Human-Generated Answers: A Data Analysis Approach"
 collection: publications
-permalink: /publication/agile-2019-place-question
+permalink: /publication/2019-agile-place-question
 year: 2019
 date: 2019-07-17
 venue: 'AGILE Conference on Geographic Information Science (AGILE)'

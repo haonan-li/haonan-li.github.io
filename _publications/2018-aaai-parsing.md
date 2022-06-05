@@ -1,7 +1,7 @@
 ---
 title: "Neural character-level dependency parsing for Chinese"
 collection: publications
-permalink: /publication/aaai-2018-parsing
+permalink: /publication/2018-aaai-parsing
 year: 2018
 date: 2018-2-2
 venue: 'Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence (AAAI)'

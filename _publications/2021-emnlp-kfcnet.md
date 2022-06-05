@@ -1,7 +1,7 @@
 ---
 title: "KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning"
 collection: publications
-permalink: /publication/emnlp-2021-kfcnet
+permalink: /publication/2021-emnlp-kfcnet
 year: 2021
 date: 2021-10-16
 venue: 'Findings of the Association for Computational Linguistics (EMNLP)'

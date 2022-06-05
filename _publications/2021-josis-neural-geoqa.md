@@ -1,7 +1,7 @@
 ---
 title: "Neural Factoid Geospatial Question Answering"
 collection: publications
-permalink: /publication/josis-2021-neural-geoqa
+permalink: /publication/2021-josis-neural-geoqa
 year: 2021
 date: 2021-12-24
 venue: 'Journal of Spatial Information Science (JOSIS)'

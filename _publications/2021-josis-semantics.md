@@ -1,7 +1,7 @@
 ---
 title: "The Semantics of Place-related Questions"
 collection: publications
-permalink: /publication/josis-2021-neural-semantics
+permalink: /publication/2021-josis-neural-semantics
 year: 2021
 date: 2021-12-24
 venue: 'Journal of Spatial Information Science (JOSIS)'

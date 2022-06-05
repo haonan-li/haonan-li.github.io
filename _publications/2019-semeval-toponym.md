@@ -1,7 +1,7 @@
 ---
 title: "UniMelb at SemEval-2019 Task 12: Multi-model combination for toponym resolution"
 collection: publications
-permalink: /publication/semeval-2019-toponym
+permalink: /publication/2019-semeval-toponym
 year: 2019
 date: 2019-06-06
 venue: 'Proceedings of the 13th International Workshop on Semantic Evaluation (SemEval)'

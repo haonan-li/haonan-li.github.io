@@ -1,0 +1,23 @@
+---
+title: "MultiSpanQA: A Dataset for Multi-Span Question Answering"
+collection: publications
+permalink: /publication/2022-naacl-multispan
+year: 2022
+date: 2022-07-10
+venue: 'Annual Conference of the North American Chapter of the Association for Computational Linguistics (NAACL)'
+paperurl: ''
+author: '<b>Haonan Li</b>, Maria Vasardani, Martin Tomko, Timothy Baldwin'
+---
+
+```
+
+```
+
+## Abstract
+Most existing reading comprehension datasets focus on single-span answers, which can be extracted as a single contiguous span from a given text passage.
+Multi-span questions, i.e., questions whose answer is a series of multiple discontiguous spans in the text, are common in real life but are less studied.
+In this paper, we present MultiSpanQA, a new dataset that focuses on questions with multi-span answers.
+Raw questions and contexts are extracted from the Natural Questions \citep{NaturalQuestions} dataset.
+After multi-span re-annotation, MultiSpanQA consists of over a total of 6,000 multi-span questions in the basic version, and over 19,000 examples with unanswerable questions, and questions with single-, and multi-span answers in the expanded version.
+We introduce new metrics for the purposes of multi-span question answering evaluation, and establish several baselines using advanced models.
+Finally, we propose a new model which beats all baselines and achieves the state-of-the-art on our dataset.
