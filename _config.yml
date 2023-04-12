@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Haonan Li"
 title_separator          : "-"
 name                     : &name "Haonan Li"
-description              : &description "I am a 4-th year PhD student in NLP at The University of Melbourne under the supervision of Tim Baldwin, Martin Tomko, and Maria Vasardani."
+description              : &description "I am a Postdoc researcher at MBZUAI."
 url                      : https://haonan-li.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "haonan-li.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Haonan Li"
   avatar           : "profile.png"
-  bio              : "PhD student in NLP at The University of Melbourne"
-  location         : "Shanxi, China"
+  bio              : "Postdoc at MBZUAI"
+  location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : #" https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com.hk/citations?hl=zh-CN&user=8SXp2n4AAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=IqfgexsAAAAJ"
   email            : "nathan.8270.n@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Haonan-Li-9"
   uri              :
