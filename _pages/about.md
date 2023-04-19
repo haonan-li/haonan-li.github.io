@@ -15,7 +15,7 @@ Previously, I did my PhD at The University of Melbourne, fortunately supervised 
 What's New !
 ======
 
-* Feb 2023 --- I started a Postdoctoral position at MBZUAI.
+* Feb 2023 --- I moved to Abu Dhabi, UAE; and started my postdoctoral work at MBZUAI.
 * May 2022 --- New [leaderboard](https://multi-span.github.io/) created for multi-span question answering.
 * May 2022 --- Two paper accepted to NAACL-HLT
   * MultiSpanQA: A Dataset for Multi-Span Question Answering
