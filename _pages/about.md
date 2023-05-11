@@ -12,7 +12,7 @@ I am a Postdoctoral Research Fellow MBZUAI.
 
 Previously, I did my PhD at The University of Melbourne, fortunately supervised by [Prof. Timothy Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Associate Prof. Martin Tomko](https://www.tomko.org/), and [Dr. Maria Vasardani](https://www.linkedin.com/in/maria-vasardani-6b9a2b5/?originalSubdomain=au). 
 
-What's New !
+What's New 
 ======
 
 * Feb 2023 --- I moved to Abu Dhabi, UAE; and started my postdoctoral work at MBZUAI.
