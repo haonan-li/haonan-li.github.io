@@ -5,12 +5,20 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
+2023
+======
+2022
+======
+2021
+======
+2020
+======
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+2019
+======
+* Ehsan Hamzei, <b>Haonan Li</b>, Maria Vasardani, Timothy Baldwin, Stephan Winter, Martin Tomko, <b>Place Questions and Human-Generated Answers: A Data Analysis Approach</b>, AGILE 2019
+* <b>Haonan Li</b>, Minghan Wang, Maria Vasardani, Martin Tomko, Timothy Baldwin, <b>UniMelb at SemEval-2019 Task 12: Multi-model combination for toponym resolution</b>, SevEval 2019
+2018
+======
+* <b>Haonan Li</b>, Zhisong Zhang, Yuqi Ju, Hai Zhao, <b>Neural character-level dependency parsing for Chinese</b>, AAAI 2018

@@ -11,13 +11,16 @@ CV can be downloaded [here](/files/CV_LHN_academic.pdf).
 
 Education
 ======
-* Ph.D Student of Engineering (Natural Language Processing), 2018 -- 2022 (expected)
+* Ph.D Student of Engineering (Natural Language Processing), 2018 -- 2022 
   * School of Computing and Information systems, The University of Melbourne, Victoria, Australia 
 * B.S. in in Engineering (Computer Science), 2013 -- 2017
   * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
 Professional
 ======
+* Postdoc Researcher at MBZUAI (Abu Dhabi, UAE) Feb 2023
+  * Work on LLM development and evaluation.
+
 * Research Intern at Microsoft Research Asia (Beijing, China), Jan 2021 -- June 2021
   * Research Topic and Achievements: Applied contrastive learning to a general encoder–decoder generation model, the proposed model achieves SOTA on [CommonGen](https://inklab.usc.edu/CommonGen/index.html) benchmark,  paper accepted at EMNLP Findings 2021.
   * Supervisor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/) and [Jian Jiao](https://www.linkedin.com/in/jian-jiao-82897810/).
@@ -56,4 +59,4 @@ Awards & Honors
 
 Professional Service
 ======
-* Reviewer for: EMNLP 2019, ACL 2021, LREC 2022, NLPCC 2022, ACL ARR 2022, EMNLP 2022,
+* Reviewer for: EMNLP 2019, ACL 2021, LREC 2022, NLPCC 2022, ACL ARR 2022, EMNLP 2022, ACL 2023, NLPCC 2023, ARR 2023, EMNLP 2023, 
