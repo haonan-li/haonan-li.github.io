@@ -81,13 +81,14 @@ analytics:
 # Site Author
 author:
   name             : "Haonan Li"
-  avatar           : "profile.png"
+  avatar           : "avatar.png"
   bio              : "Postdoc at MBZUAI"
   location         : "Abu Dhabi, UAE"
   employer         :
   pubmed           : #" https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IqfgexsAAAAJ"
-  email            : "nathan.8270.n@gmail.com"
+  semanticscholar  : "https://www.semanticscholar.org/author/Haonan-Li/49404498"
+  email            : "haonan.li@librai.tech"
   researchgate     : "https://www.researchgate.net/profile/Haonan-Li-9"
   uri              :
   bitbucket        :
@@ -102,7 +103,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/haonan-li-809709b9/"
+  linkedin         : "haonan-li-809709b9"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
