@@ -8,6 +8,7 @@ author_profile: true
 
 2023
 ======
+* Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, Hongyi Wang, Bowen Tan, Tianhua Tao, Junbo Li, Yuqi Wang, Suqi Sun, Omkar Pangarkar, Richard Fan, Yi Gu, Victor Miller, Yonghao Zhuang, Guowei He, <b>Haonan Li</b>, Fajri Koto, Liping Tang, Nikhil Ranjan, Zhiqiang Shen, Xuguang Ren, Roberto Iriondo, Cun Mu, Zhiting Hu, Mark Schulze, Preslav Nakov, Tim Baldwin, Eric P Xing, preprint, 2023. [[paper](https://arxiv.org/abs/2312.06550)][[code](https://github.com/LLM360/Analysis360)]
 * <b>Haonan Li</b>, Martin Tomko and Timothy Baldwin, <b>Location Aware Modular Biencoder for Tourism Question Answering</b>, AACL 2023. [[paper]][[code](https://github.com/haonan-li/LAMB)]
 * Yixuan Zhang, <b>Haonan Li</b>, <b>Can Large Language Model Comprehend Ancient Chinese? A Preliminary Test on ACLUE</b>, ALP 2023. [[paper](https://arxiv.org/abs/2310.09550)][[code](https://github.com/isen-zhang/ACLUE)]
 * Fajri Koto, Nurul Aisyah, <b>Haonan Li</b>, Timothy Baldwin, <b>Large Language Models Only Pass Primary School Exams in Indonesia: A Comprehensive Test on IndoMMLU</b>, EMNLP 2023. [[paper](https://arxiv.org/abs/2310.04928)][[code](https://github.com/fajri91/IndoMMLU)]

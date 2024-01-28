@@ -16,8 +16,10 @@ Previously, I did my PhD at The University of Melbourne, fortunately supervised 
 
 What's New 
 ======
-* Oct 2023 --- Our paper [IndoMMLU](https://github.com/fajri91/IndoMMLU) was accepted at EMNLP 2023
-* Sept 2023 --- Our paper Location-Aware Modular Bi-encoder for Tourism Question Answering was accpeted at IJCNLP-AACL 2023
+* Dec 2023 --- We release [LLM360](https://www.llm360.ai/), A framework for open-source LLMs to foster transparency, trust, and collaborative research.
+* Oct 2023 --- Our paper [ACLUE](https://arxiv.org/pdf/2310.09550.pdf) was accepted at RANLP (ALP) 2023.
+* Oct 2023 --- Our paper [IndoMMLU](https://github.com/fajri91/IndoMMLU) was accepted at EMNLP 2023.
+* Sept 2023 --- Our paper Location-Aware Modular Bi-encoder for Tourism Question Answering was accpeted at IJCNLP-AACL 2023.
 * Aug 2023 --- We release [Do-Not-Answer](https://arxiv.org/pdf/2308.13387.pdf): A dataset for evaluating safeguards in LLMs.
 * Aug 2023 --- We release [Jais and Jais-chat](https://huggingface.co/papers/2308.16149): Arabic-centric foundation and instruction-tuned open generative large language models. Link to [Technique Report](https://www.inceptioniai.org/jais/docs/Technicalpaper.pdf), [Blog](https://www.cerebras.net/blog/jais-a-new-pinnacle-in-open-arabic-nlp).
 * June 2023 --- We release [CMMLU](https://github.com/haonan-li/CMMLU), a massive multitask language understanding benchmark in Chinese. 
