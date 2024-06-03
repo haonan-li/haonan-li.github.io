@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-CV can be downloaded [here](/files/CV_LHN_academic.pdf).
+CV can be downloaded [here](/files/CV_LHN_academic.pdf). Note that the CV is updated every 6 months.
 
 Education
 ======
