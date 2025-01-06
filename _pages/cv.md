@@ -7,19 +7,24 @@ redirect_from:
   - /resume
 ---
 
-CV can be downloaded [here](/files/CV_LHN_academic.pdf). Note that the CV is updated every 6 months.
+CV can be downloaded [here](/files/CV_Haonan_1page.pdf) (PDF, 1.2MB). Last updated on 2025-01-06.
 
 Education
 ======
 * Ph.D Student of Engineering (Natural Language Processing), 2018 -- 2022 
   * School of Computing and Information systems, The University of Melbourne, Victoria, Australia 
-* B.S. in in Engineering (Computer Science), 2013 -- 2017
+* B.S. in Engineering (Computer Science), 2013 -- 2017
   * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
 
-Professional
+Professional Experience
 ======
-* Postdoc Researcher at MBZUAI (Abu Dhabi, UAE) Feb 2023
-  * Work on LLM development and evaluation.
+* CTO of [LibrAI](https://www.librai.tech/), 2023 -- Present
+  * Non-profit Projects: [Libra-Leaderboard](https://leaderboard.librai.tech/), [Libra-Eval](https://github.com/LibrAIResearch/libra-eval).
+  * Products: [Loki-commercial](https://aip.librai.tech/app/fact-check/new), [Evaluator](https://evaluators.librai.tech/Evaluators).
+
+* Postdoc Researcher at MBZUAI (Abu Dhabi, UAE) Feb 2023 -- Present
+  * Work on LLM development and evaluation. 
+  * Key projects: [Loki](https://github.com/Libr-AI/OpenFactVerification), [LLM360](https://www.llm360.ai/), [Jais](https://huggingface.co/papers/2308.16149), [CMMLU](https://github.com/haonan-li/CMMLU), [Bactrian-X](https://github.com/mbzuai-nlp/bactrian-x).
 
 * Research Intern at Microsoft Research Asia (Beijing, China), Jan 2021 -- June 2021
   * Research Topic and Achievements: Applied contrastive learning to a general encoder–decoder generation model, the proposed model achieves SOTA on [CommonGen](https://inklab.usc.edu/CommonGen/index.html) benchmark,  paper accepted at EMNLP Findings 2021.
@@ -37,15 +42,11 @@ Professional
   * Developed an automation tool for code merging and updating with SVN.
   * Supervisor: Kuiying Wang and Chunhui Jia
 
-Skills
-======
-* Programming Language: Python, C/C++
-* Language: English (TOEFL iBT: 86/120, GRE: 320/340)
-* ML & NLP: PyTorch, Keras, Transformers, NLTK, etc.
-* Tools: Latex, git, etc.
 
 Awards & Honors
 ======
+* LibrAI got **2nd Level Grant**, MBZUAI Incubation and Entrepreneurship Center, 2023 
+* LibrAI got **Pre-seed Investment**, MiraclePlus, 2023 
 * **Stars of Tomorrow Internship Program Award**, Microsoft Research Asia, 2021
 * **First place on CommonGen public [leaderboard](https://inklab.usc.edu/CommonGen/leaderboard.html)**, A Constrained Text Generation Challenge for Generative Commonsense Reasoning, June 2021 -- Feb 2022
 * **Second Place in Competition of SemEval-2019 Task 12 ([Codalab](https://competitions.codalab.org/competitions/19948#learn_the_details))**, Toponym Resolution in Scientific Papers, 2019
@@ -56,7 +57,3 @@ Awards & Honors
 * **Second Class of Awarding** in the National Mathematics League Match for Undergraduate, 2014 
 * **First Class of Awarding** in the National Mathematics League Match for Senior Middle School Student, China, 2012
 * **Second Class of Awarding** in the National Mathematics League Match for Senior Middle School Student, China, 2011
-
-Professional Service
-======
-* Reviewer for: EMNLP 2019, ACL 2021, LREC 2022, NLPCC 2022, ACL ARR 2022, EMNLP 2022, ACL 2023, NLPCC 2023, ARR 2023, EMNLP 2023, 

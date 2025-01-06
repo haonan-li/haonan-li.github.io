@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a Postdoctoral Research Fellow at [MBZUAI](https://mbzuai.ac.ae/).
+I am a Postdoctoral Research Fellow at [MBZUAI](https://mbzuai.ac.ae/) specializing in LLM-related research. As the co-founder and CTO of [LibrAI](https://www.librai.tech/) Technologies, I contribute to research and development efforts aimed at improving AI evaluation and safety frameworks. My work aims to tackle challenges in model alignment, evaluation, and safety, striving to bridge academic research with practical applications.
 
-I am cofounder and CTO of [LibrAI](https://www.librai.tech/).
-
-Previously, I did my PhD at The University of Melbourne, fortunately supervised by [Prof. Timothy Baldwin](https://people.eng.unimelb.edu.au/tbaldwin/) and [Associate Prof. Martin Tomko](https://www.tomko.org/), and [Dr. Maria Vasardani](https://www.linkedin.com/in/maria-vasardani-6b9a2b5/?originalSubdomain=au). 
-
-What's New 
+What's New (updated on 2025-01-06)
 ======
-* May 2024 --- I have five co-aurhored papers accepted by [ACL 2024](https://2024.aclweb.org/), see you in Bangkok, Thailand!
+* Jan 2025 --- We will organize a tutorial on [Safety Issues for Generative AI](https://coling2025.org/program/tutorials/#tutorial-7-safety-issues-for-generative-ai) at COLING. See you in Abu Dhabi!
+* Jan 2025 --- We release [Libra-Leaderboard](https://leaderboard.librai.tech/), a leaderboard for LLM evaluation. [Website](https://leaderboard.librai.tech/), [X](https://x.com/haonanlp/status/1875194364399599881), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280225099218141184/).
+* Dec 2024 --- Our Survey paper on AI safety was accepted by [JAIR](https://www.jair.org/index.php/jair). Title: Against The Achilles' Heel: A Survey on Red Teaming for Generative Models. [Paper](https://arxiv.org/abs/2404.00629).
+* Nov 2024 --- We release [Nanda LLM](https://huggingface.co/MBZUAI/Llama-3-Nanda-10B-Chat) a 10B Hindi-English bilingual hashtag#LLM adapted on top of Llama3-8B.  [Paper](https://github.com/mbzuai-nlp/Llama-3-Nanda-10B-Chat/blob/main/Llama-3-Nanda-10B-Chat-Paper.pdf) [LinkedIn](https://www.linkedin.com/posts/monojit-choudhury-54225898_nanda-llm-activity-7257400193447256064-HJ33/)
+* Oct 2024 --- We (LibrAI) are participating as exhibitors at [GITEX](https://www.gitex.com/), Dubai.
+* July 2024 --- We (LibrAI) are participating as exhibitors at [WAIC - World Artificial Intelligence Conference](https://www.linkedin.com/company/worldaiconf/). 
+* May 2024 --- I have five co-authored papers accepted by [ACL 2024](https://2024.aclweb.org/), see you in Bangkok, Thailand!
 * Apr 2024 --- We did a comprehensive survey on generative AI attack and defense (red-teaming). We target a better and safer AI development. [[Github](https://github.com/Libr-AI/OpenRedTeaming)][[Paper](https://arxiv.org/abs/2404.00629)]
 * Apr 2024 --- Our work [Do-Not-Answer](https://arxiv.org/pdf/2308.13387.pdf) is featured in the latest [Stanford AI Index Report 2024](https://aiindex.stanford.edu/report/).
-* Feb 2024 --- We release [Loki](https://github.com/Libr-AI/OpenFactVerification): An Open-source Tool for Fact Verification. We also release a commercial version with fancy UI and better user experience. [TRY IT NOW!](https://aip.librai.tech/)
+* Feb 2024 --- We release [Loki](https://github.com/Libr-AI/OpenFactVerification): An Open-source Tool for Fact Verification. We also release a commercial version with fancy UI and better user experience. [TRY IT NOW!](https://aip.librai.tech/app/fact-check/new)
 * Dec 2023 --- We release [LLM360](https://www.llm360.ai/), A framework for open-source LLMs to foster transparency, trust, and collaborative research.
 
 * Aug 2023 --- We release [Jais and Jais-chat](https://huggingface.co/papers/2308.16149): Arabic-centric foundation and instruction-tuned open generative large language models. Link to [Technique Report](https://www.inceptioniai.org/jais/docs/Technicalpaper.pdf), [Blog](https://www.cerebras.net/blog/jais-a-new-pinnacle-in-open-arabic-nlp).
