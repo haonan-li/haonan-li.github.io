@@ -18,11 +18,13 @@ Education
 
 Professional Experience
 ======
-* CTO of [LibrAI](https://www.librai.tech/), 2023 -- Present
-  * Non-profit Projects: [Libra-Leaderboard](https://leaderboard.librai.tech/), [Libra-Eval](https://github.com/LibrAIResearch/libra-eval).
-  * Products: [Loki-commercial](https://aip.librai.tech/app/fact-check/new), [Evaluator](https://evaluators.librai.tech/Evaluators).
+* Senior Research Scientist at [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/) June 2025 -- Present
 
-* Postdoc Researcher at MBZUAI (Abu Dhabi, UAE) Feb 2023 -- Present
+* CTO of [LibrAI](https://www.librai.tech/), 2023 -- June 2025 
+  * Non-profit Projects: [Libra-Leaderboard](https://leaderboard.librai.tech/), [Libra-Eval](https://github.com/LibrAIResearch/libra-eval).
+  * Products: [Loki-commercial](https://aip.librai.tech/app/fact-check/new), [Prompter](https://prompter.librai.tech/).
+
+* Postdoc Researcher at MBZUAI (Abu Dhabi, UAE) Feb 2023 -- June 2025
   * Work on LLM development and evaluation. 
   * Key projects: [Loki](https://github.com/Libr-AI/OpenFactVerification), [LLM360](https://www.llm360.ai/), [Jais](https://huggingface.co/papers/2308.16149), [CMMLU](https://github.com/haonan-li/CMMLU), [Bactrian-X](https://github.com/mbzuai-nlp/bactrian-x).
 

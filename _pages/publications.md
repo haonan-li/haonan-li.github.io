@@ -5,10 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Last updated on 2025-02
+Last updated on 2025-09
 
 2025
 ======
+* Renxi Wang, Rifo Ahmad Genadi, Bilal El Bouardi, Yongxin Wang, Fajri Koto, Zhengzhong Liu, Timothy Baldwin, <b>Haonan Li</b>, <b>AgentFly: Extensible and Scalable Reinforcement Learning for LM Agents</b>, preprint 2025. [[paper](https://arxiv.org/abs/2507.14897)] [[code]()]
+* Yilin Geng, <b>Haonan Li</b>, Honglin Mu, Xudong Han, Timothy Baldwin, Omri Abend, Eduard Hovy, Lea Frermann, <b>Control illusion: The failure of instruction hierarchies in large language models</b>, preprint 2025. [[paper](https://arxiv.org/abs/2502.15851)] [[code](https://github.com/yilin-geng/llm_instruction_conflicts)]
+* Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, <b>Haonan Li</b>, Qirong Ho, <b>Hawkeye: Efficient reasoning with model collaboration</b>, preprint 2025. [[paper](https://arxiv.org/abs/2504.00424)] [[website](https://zhuohaol.com/Hawkeye/)]
 * Renxi Wang, Honglin Mu, Liqun Ma, Lizhi Lin, Yunlong Feng, Timothy Baldwin, Xudong Han, <b>Haonan Li</b>, <b>SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning</b>, preprint 2025. [[paper](https://arxiv.org/abs/2502.13753)][[code](https://github.com/LibrAIResearch/scalar)]
 * Zenan Zhai, Hao Li, Xudong Han, Zhenxuan Zhang, Yixuan Zhang, Timothy Baldwin, <b>Haonan Li</b>, <b>RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises</b>, preprint 2025. [[paper](https://arxiv.org/abs/2502.13125)][[code](https://github.com/LibrAIResearch/ruozhibench)]
 * Chengqian Gao, <b>Haonan Li</b>, Liu Liu, Zeke Xie, Peilin Zhao, Zhiqiang Xu, <b>Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples</b>, preprint 2025. [[paper](https://arxiv.org/abs/2502.09650)][[code](https://github.com/glorgao/SelectiveDPO)]
