@@ -19,6 +19,8 @@ Education
 Professional Experience
 ======
 * Senior Research Scientist at [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/) June 2025 -- Present
+  * Work on LLM post-train, data creation, and agent related research
+  * Core member of [K2-Think](https://www.k2think.ai/) and [K2-V2](https://huggingface.co/LLM360/K2-V2-Instruct).
 
 * CTO of [LibrAI](https://www.librai.tech/), 2023 -- June 2025 
   * Non-profit Projects: [Libra-Leaderboard](https://leaderboard.librai.tech/), [Libra-Eval](https://github.com/LibrAIResearch/libra-eval).
