@@ -1,0 +1,497 @@
+# Publications shown on /publications/ (grouped by year, in this order).
+# Fields: title, authors ("Haonan Li" is bolded automatically; * = equal contribution),
+# venue, year, badges (optional), selected + selected_order + tldr (home page), links (first link = title link).
+
+- title: 'Jais 3: Introducing Arabic-centric Agentic AI'
+  authors: 'Team IFM: Haonan Li, Hadi Abdine, Nikhil Ranjan, ..., Zhengzhong Liu, Eric Xing'
+  venue: IFM Technical Report 2026
+  year: 2026
+  badges:
+  - First author
+  selected: true
+  selected_order: 1
+  tldr: Six open Arabic-centric agentic models (0.9B–375B) adapted from the fully open K2 Horizon fleet through continual pre-training, SFT, and RL.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2611.10224
+  - name: Models
+    url: https://huggingface.co/inception42/Jais-3-32B
+- title: 'Magenta: Closing the Loop Between Mathematical Reasoning and Lean Verification'
+  authors: Joshua Ong Jun Leang, Haonan Li, Zheng Zhao, Xinyi Shang, Wenda Li, Zhengzhong Liu, Eric Xing, Shay Cohen, Eleonora Giunchiglia
+  venue: Preprint 2026
+  year: 2026
+  selected: true
+  selected_order: 2
+  tldr: A training-free agent pipeline that turns a math problem into an answer, a Lean 4 statement, and a machine-checked proof; 100% on AIME 2025/2026 and HMMT Feb 2026, and all six IMO 2026 problems with K2-Horizon-7B.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2609.11319
+- title: 'From Leaky Thoughts to Private Reasoning: Controlling What LRMs Say to Themselves'
+  authors: Haritz Puerto, Haonan Li, Xudong Han, Timothy Baldwin, Iryna Gurevych
+  venue: EMNLP 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.emnlp-main.41/
+- title: 'Jais 2: A Family of Arabic-Centric Open Large Language Models'
+  authors: Mohamed Anwar, Abed Alhakim Freihat, George Ibrahim, ..., Haonan Li, ..., Preslav Nakov
+  venue: EMNLP 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.emnlp-main.657/
+- title: 'Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation'
+  authors: Joshua Ong Jun Leang, Zheng Zhao, Mihaela Cătălina Stoian, Qiyuan Xu, Haonan Li, Wenda Li, Shay B. Cohen, Eleonora Giunchiglia
+  venue: Technical report, 2026 · MathNLP 2026 workshop at EMNLP (non-archival)
+  year: 2026
+  badges:
+  - Best Paper Award
+  selected: true
+  selected_order: 3
+  tldr: Compute-efficient open Lean theorem provers trained with curriculum fine-tuning and Augmented Lean Formalisation, with strong results on MiniF2F and PutnamBench.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2606.12594
+- title: 'Fairness in Prompting: How Demographic Variations Affect Language Model Outputs'
+  authors: Ryandito Diandaru, Gleb Kuzmin, Muhammad Dehan Al Kautsar, Zeerak Talat, Xudong Han, Haonan Li, Tatsuki Kuribayashi, Artem Shelmanov, Timothy Baldwin, Fajri Koto
+  venue: AACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.aacl-short.10/
+- title: 'AoA: Theorem Proving Agent over Abstract Syntax Tree of Redesigned Language'
+  authors: Qiyuan Xu, Joshua Ong Jun Leang, Renxi Wang, Wenda Li, Haonan Li, Luke Ong, Conrad Watt
+  venue: ICSE 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2607.16372
+- title: 'FinChain: A Symbolic Benchmark for Verifiable Chain-of-Thought Financial Reasoning'
+  authors: Zhuohan Xie, Daniil Orel, Rushil Thareja, ..., Haonan Li, ..., Preslav Nakov
+  venue: ACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.acl-long.662/
+- title: Multilingual Idioms in Sentences and Conversations Across High-, Medium-, and Low-Resource Languages
+  authors: Saeed Almheiri, Bilal Elbouardi, Salsabila Zahirah Pranida, ..., Haonan Li, Suma Bhat, Fajri Koto
+  venue: ACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.acl-long.564/
+- title: 'CoQuIR: A Comprehensive Benchmark for Code Quality-Aware Information Retrieval'
+  authors: Jiahui Geng, Fengyu Cai, Shaobo Cui, Qing Li, Liangwei Chen, Chenyang Lyu, Haonan Li, Derui Zhu, Alexander Pretschner, Heinz Koeppl, Fakhri Karray
+  venue: ACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.acl-long.512/
+- title: 'Neural Theorem Proving for Verification Conditions: A Real-World Benchmark'
+  authors: Qiyuan Xu, Xiaokun Luan, Renxi Wang, Joshua Ong Jun Leang, Peixin Wang, Haonan Li, Wenda Li, Conrad Watt
+  venue: ICLR 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2601.18944
+- title: 'SCALAR: Scientific Citation-based Live Assessment of Long-context Academic Reasoning'
+  authors: Renxi Wang, Honglin Mu, Liqun Ma, Lizhi Lin, Yunlong Feng, Timothy Baldwin, Xudong Han, Haonan Li
+  venue: EACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.eacl-long.366/
+  - name: Code
+    url: https://github.com/LibrAIResearch/scalar
+- title: 'Nanda Family: Open-Weights Generative Large Language Models for Hindi'
+  authors: Aaryamonvikram Singh, Debopriyo Banerjee, Dhruv Sahnan, ..., Haonan Li, ..., Preslav Nakov
+  venue: EACL 2026
+  year: 2026
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2026.eacl-long.288/
+- title: 'Control Illusion: The Failure of Instruction Hierarchies in Large Language Models'
+  authors: Yilin Geng, Haonan Li, Honglin Mu, Xudong Han, Timothy Baldwin, Omri Abend, Eduard Hovy, Lea Frermann
+  venue: AAAI 2026
+  year: 2026
+  selected: true
+  selected_order: 5
+  tldr: LLMs do not reliably follow system-over-user instruction priority, even for simple formatting conflicts; social framings such as authority or consensus sway them more than role separation.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2502.15851
+  - name: Code
+    url: https://github.com/yilin-geng/llm_instruction_conflicts
+- title: 'K2-V2: A 360-Open, Reasoning-Enhanced LLM'
+  authors: Zhengzhong Liu, Liping Tang, Linghao Jin, Haonan Li, ..., Eric P. Xing (K2 Team)
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2512.06201
+  - name: Model
+    url: https://huggingface.co/LLM360/K2-V2-Instruct
+- title: 'K2-Think: A Parameter-Efficient Reasoning System'
+  authors: Zhoujun Cheng, Richard Fan, Shibo Hao, Taylor W. Killian, Haonan Li, ..., Eric P. Xing
+  venue: Preprint 2025
+  year: 2025
+  selected: true
+  selected_order: 4
+  tldr: A 32B parameter-efficient reasoning system that matches or beats much larger open models on math, code, and science reasoning.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2509.07604
+  - name: Website
+    url: https://www.k2think.ai/
+- title: 'AgentFly: Scaling Agentic Reinforcement Learning with Unified Resource System'
+  authors: Renxi Wang, Bilal El Bouardi, Rifo Ahmad Genadi, Yongxin Wang, Shu Wang, Fajri Koto, Zhengzhong Liu, Timothy Baldwin, Haonan Li
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2507.14897
+  - name: Code
+    url: https://github.com/Agent-One-Lab/AgentFly
+- title: 'BALSAM: A Platform for Benchmarking Arabic Large Language Models'
+  authors: Rawan Al-Matham, Kareem Darwish, Raghad Al-Rasheed, ..., Haonan Li, ..., Abdulrahman AlOsaimy
+  venue: ArabicNLP 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2025.arabicnlp-main.21/
+- title: 'Hawkeye: Efficient reasoning with model collaboration'
+  authors: Jianshu She, Zhuohao Li, Zhemin Huang, Qi Li, Peiran Xu, Haonan Li, Qirong Ho
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2504.00424
+  - name: Website
+    url: https://zhuohaol.com/Hawkeye/
+- title: 'RuozhiBench: Evaluating LLMs with Logical Fallacies and Misleading Premises'
+  authors: Zenan Zhai, Hao Li, Xudong Han, Zhenxuan Zhang, Yixuan Zhang, Timothy Baldwin, Haonan Li
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2502.13125
+  - name: Code
+    url: https://github.com/LibrAIResearch/ruozhibench
+- title: 'Safety at Scale: A Comprehensive Survey of Large Model and Agent Safety'
+  authors: Xingjun Ma, Yifeng Gao, Yixu Wang, ..., Haonan Li, ..., Yu-Gang Jiang
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2502.05206
+- title: 'Principled Data Selection for Alignment: The Hidden Risks of Difficult Examples'
+  authors: Chengqian Gao, Haonan Li, Liu Liu, Zeke Xie, Peilin Zhao, Zhiqiang Xu
+  venue: ICML 2025
+  year: 2025
+  selected: true
+  selected_order: 6
+  tldr: Overly difficult preference examples exceed a model's capacity and hurt alignment; Selective DPO filters them out and improves alignment.
+  links:
+  - name: Paper
+    url: https://proceedings.mlr.press/v267/gao25f.html
+  - name: Code
+    url: https://github.com/glorgao/SelectiveDPO
+- title: 'Against The Achilles'' Heel: A Survey on Red Teaming for Generative Models'
+  authors: Lizhi Lin, Honglin Mu, Zenan Zhai, Minghan Wang, Yuxia Wang, Renxi Wang, Junjie Gao, Yixuan Zhang, Wanxiang Che, Timothy Baldwin, Xudong Han, Haonan Li
+  venue: JAIR 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2404.00629
+  - name: Code
+    url: https://github.com/Libr-AI/OpenRedTeaming
+- title: 'ToolGen: Unified Tool Retrieval and Calling via Generation'
+  authors: Renxi Wang, Xudong Han, Lei Ji, Shu Wang, Timothy Baldwin, Haonan Li
+  venue: ICLR 2025
+  year: 2025
+  selected: true
+  selected_order: 7
+  tldr: Represents each tool as a unique token so the LLM retrieves and calls tools by generation, scaling to tens of thousands of tools without a separate retriever.
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2410.03439
+  - name: Code
+    url: https://github.com/Reason-Wang/ToolGen
+- title: 'NAT: Enhancing Agent Tuning with Negative Samples'
+  authors: Renxi Wang, Xudong Han, Yixuan Zhang, Timothy Baldwin, Haonan Li
+  venue: NAACL 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2025.naacl-long.378/
+  - name: Code
+    url: https://github.com/Reason-Wang/NAT
+- title: 'Libra-Leaderboard: Towards Responsible AI through a Balanced Leaderboard of Safety and Capability'
+  authors: Haonan Li, Xudong Han, Zenan Zhai, ..., Timothy Baldwin
+  venue: NAACL 2025 (Demo)
+  year: 2025
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2025.naacl-demo.23/
+  - name: Website
+    url: https://leaderboard.librai.tech/LeaderBoard
+- title: 'Loki: An Open-Source Tool for Fact Verification'
+  authors: Haonan Li, Xudong Han, Hao Wang, Yuxia Wang, Minghan Wang, Rui Xing, Yilin Geng, Zenan Zhai, Preslav Nakov, Timothy Baldwin
+  venue: COLING 2025 (Demo)
+  year: 2025
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2025.coling-demos.4/
+  - name: Code
+    url: https://github.com/Libr-AI/openfactverification
+- title: 'Bi-Mamba: Towards Accurate 1-Bit State Space Models'
+  authors: Shengkun Tang, Liqun Ma, Haonan Li, Mingjie Sun, Zhiqiang Shen
+  venue: TMLR 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2411.11843
+- title: 'LLM360 K2: Scaling Up 360-Open-Source Large Language Models'
+  authors: Zhengzhong Liu, Bowen Tan, Hongyi Wang, Willie Neiswanger, Tianhua Tao, Haonan Li, ..., Eric Xing
+  venue: Preprint 2025
+  year: 2025
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2501.07124
+- title: Lessons from the Trenches on Reproducible Evaluation of Language Models
+  authors: Stella Biderman, Hailey Schoelkopf, Lintang Sutawika, ..., Haonan Li, ..., Andy Zou
+  venue: Preprint 2024
+  year: 2024
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2405.14782
+- title: 'EXAMS-V: A Multi-Discipline Multilingual Multimodal Exam Benchmark for Evaluating Vision Language Models'
+  authors: Rocktim Jyoti Das, Simeon Emilov Hristov, Haonan Li, Dimitar Iliyanov Dimitrov, Ivan Koychev, Preslav Nakov
+  venue: ACL 2024
+  year: 2024
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2403.10378
+  - name: Code
+    url: https://github.com/RocktimJyotiDas/EXAMS-V
+- title: Fact-Checking the Output of Large Language Models via Token-Level Uncertainty Quantification
+  authors: Ekaterina Fadeeva, Aleksandr Rubashevskii, Artem Shelmanov, Sergey Petrakov, Haonan Li, Hamdy Mubarak, Evgenii Tsymbalov, Gleb Kuzmin, Alexander Panchenko, Timothy Baldwin, Preslav Nakov, Maxim Panov
+  venue: Findings of ACL 2024
+  year: 2024
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2024.findings-acl.558/
+- title: 'ArabicMMLU: Assessing Massive Multitask Language Understanding in Arabic'
+  authors: Fajri Koto, Haonan Li, Sara Shatnawi, Jad Doughman, Abdelrahman Boda Sadallah, Aisha Alraeesi, Khalid Almubarak, Zaid Alyafeai, Neha Sengupta, Shady Shehata, Nizar Habash, Preslav Nakov, Timothy Baldwin
+  venue: Findings of ACL 2024
+  year: 2024
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2024.findings-acl.334/
+  - name: Code
+    url: https://github.com/mbzuai-nlp/ArabicMMLU
+- title: A Chinese Dataset for Evaluating the Safeguards in Large Language Models
+  authors: Yuxia Wang, Zenan Zhai, Haonan Li, Xudong Han, Lizhi Lin, Zhenxuan Zhang, Jingru Zhao, Preslav Nakov, Timothy Baldwin
+  venue: Findings of ACL 2024
+  year: 2024
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2024.findings-acl.184/
+- title: 'CMMLU: Measuring Massive Multitask Language Understanding in Chinese'
+  authors: Haonan Li, Yixuan Zhang, Fajri Koto, Yifei Yang, Hai Zhao, Yeyun Gong, Nan Duan, Timothy Baldwin
+  venue: Findings of ACL 2024
+  year: 2024
+  badges:
+  - First author
+  selected: true
+  selected_order: 8
+  tldr: A Chinese multitask benchmark spanning 67 subjects; at release, most LLMs struggled to reach 50% average accuracy.
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2024.findings-acl.671/
+  - name: Code
+    url: https://github.com/haonan-li/CMMLU
+- title: 'Do-Not-Answer: Evaluating Safeguards in LLMs'
+  authors: Yuxia Wang*, Haonan Li*, Xudong Han*, Preslav Nakov, Timothy Baldwin
+  venue: Findings of EACL 2024
+  year: 2024
+  badges:
+  - Co-first author
+  selected: true
+  selected_order: 9
+  tldr: An open dataset of instructions that responsible LLMs should refuse, with annotated responses from six LLMs; small BERT-like classifiers rival GPT-4 as safety judges.
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2024.findings-eacl.61/
+  - name: Code
+    url: https://github.com/Libr-AI/do-not-answer
+- title: 'LLM360: Towards Fully Transparent Open-Source LLMs'
+  authors: Zhengzhong Liu, Aurick Qiao, Willie Neiswanger, ..., Haonan Li, ..., Eric P Xing
+  venue: Preprint 2023
+  year: 2023
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2312.06550
+  - name: Code
+    url: https://github.com/LLM360/Analysis360
+- title: Location Aware Modular Biencoder for Tourism Question Answering
+  authors: Haonan Li, Martin Tomko and Timothy Baldwin
+  venue: Findings of AACL 2023
+  year: 2023
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2023.findings-ijcnlp.9/
+  - name: Code
+    url: https://github.com/haonan-li/LAMB
+- title: Can Large Language Model Comprehend Ancient Chinese? A Preliminary Test on ACLUE
+  authors: Yixuan Zhang, Haonan Li
+  venue: ALP 2023
+  year: 2023
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2310.09550
+  - name: Code
+    url: https://github.com/isen-zhang/ACLUE
+- title: 'Large Language Models Only Pass Primary School Exams in Indonesia: A Comprehensive Test on IndoMMLU'
+  authors: Fajri Koto, Nurul Aisyah, Haonan Li, Timothy Baldwin
+  venue: EMNLP 2023
+  year: 2023
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2310.04928
+  - name: Code
+    url: https://github.com/fajri91/IndoMMLU
+- title: Incorporating Structured and Unstructured Information for Geospatial Question Answering
+  authors: Haonan Li
+  venue: Ph.D. Thesis, The University of Melbourne 2023
+  year: 2023
+  links:
+  - name: Thesis
+    url: https://minerva-access.unimelb.edu.au/items/6f52ade5-d57f-492f-af08-e18f47f2b895
+- title: 'Jais and Jais-chat: Arabic-Centric Foundation and Instruction-Tuned Open Generative Large Language Models'
+  authors: Neha Sengupta, Sunil Kumar Sahu, Bokang Jia, Satheesh Katipomu, Haonan Li, ..., Eric Xing
+  venue: Preprint 2023
+  year: 2023
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2308.16149
+  - name: Website
+    url: https://inceptioniai.org/jais
+- title: 'Bactrian-X: A Multilingual Replicable Instruction-Following Model with Low-Rank Adaptation'
+  authors: Haonan Li*, Fajri Koto*, Minghao Wu, Alham Fikri Aji, Timothy Baldwin
+  venue: Preprint, 2023
+  year: 2023
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://arxiv.org/abs/2305.15011
+  - name: Code
+    url: https://github.com/mbzuai-nlp/bactrian-x
+- title: Sentiment-Aware Word and Sentence Level Pre-training for Sentiment Analysis
+  authors: Shuai Fan, Chen Lin, Haonan Li, Zhenghao Lin, Jinsong Su, Hang Zhang, Yeyun Gong, Jian Guo, Nan Duan
+  venue: EMNLP 2022
+  year: 2022
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2022.emnlp-main.332/
+  - name: Code
+    url: https://github.com/XMUDM/SentiWSP
+- title: 'CULG: Commercial Universal Language Generation'
+  authors: Haonan Li, Yameng Huang, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan
+  venue: NAACL (Industry Track) 2022
+  year: 2022
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2022.naacl-industry.14/
+- title: 'MultiSpanQA: A Dataset for Multi-Span Question Answering'
+  authors: Haonan Li, Maria Vasardani, Martin Tomko, Timothy Baldwin
+  venue: NAACL 2022
+  year: 2022
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2022.naacl-main.90/
+  - name: Website
+    url: https://multi-span.github.io/
+- title: Neural character-level syntactic parsing for Chinese
+  authors: Zuchao Li, Junru Zhou, Hai Zhao, Zhisong Zhang, Haonan Li, Yuqi Ju
+  venue: JAIR 2022
+  year: 2022
+  links:
+  - name: Paper
+    url: https://www.jair.org/index.php/jair/article/view/13052
+- title: 'KFCNet: Knowledge Filtering and Contrastive Learning for Generative Commonsense Reasoning'
+  authors: Haonan Li, Yeyun Gong, Jian Jiao, Ruofei Zhang, Timothy Baldwin, Nan Duan
+  venue: Findings of EMNLP 2021
+  year: 2021
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2021.findings-emnlp.249/
+- title: Neural Factoid Geospatial Question Answering
+  authors: Haonan Li, Ehsan Hamzei, Ivan Majic, Hua Hua, Jochen Renz, Martin Tomko, Maria Vasardani, Stephen Winter, Timothy Baldwin
+  venue: JOSIS 2021
+  year: 2021
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://josis.org/index.php/josis/article/view/159
+  - name: Code
+    url: https://github.com/haonan-li/neural-factoid-geoqa
+- title: The Semantics of Place-related Questions
+  authors: Werner Kuhn, Ehsan Hamzei, Martin Tomko, Stephan Winter, Haonan Li
+  venue: JOSIS 2021
+  year: 2021
+  links:
+  - name: Paper
+    url: https://josis.org/index.php/josis/article/view/161
+- title: Target Word Masking for Location Metonymy Resolution
+  authors: Haonan Li, Maria Vasardani, Martin Tomko, Timothy Baldwin
+  venue: COLING 2020
+  year: 2020
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/2020.coling-main.330/
+  - name: Code
+    url: https://github.com/haonan-li/TWM-metonymy-resolution
+- title: 'Place Questions and Human-Generated Answers: A Data Analysis Approach'
+  authors: Ehsan Hamzei, Haonan Li, Maria Vasardani, Timothy Baldwin, Stephan Winter, Martin Tomko
+  venue: AGILE 2019
+  year: 2019
+  links:
+  - name: Paper
+    url: https://link.springer.com/chapter/10.1007/978-3-030-14745-7_1
+  - name: Code
+    url: https://github.com/haonan-li/place-qa-AGILE19
+- title: 'UniMelb at SemEval-2019 Task 12: Multi-model combination for toponym resolution'
+  authors: Haonan Li, Minghan Wang, Maria Vasardani, Martin Tomko, Timothy Baldwin
+  venue: SemEval 2019
+  year: 2019
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://aclanthology.org/S19-2231/
+- title: Neural character-level dependency parsing for Chinese
+  authors: Haonan Li, Zhisong Zhang, Yuqi Ju, Hai Zhao
+  venue: AAAI 2018
+  year: 2018
+  badges:
+  - First author
+  links:
+  - name: Paper
+    url: https://ojs.aaai.org/index.php/AAAI/article/view/12002

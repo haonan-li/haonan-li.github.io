@@ -1,0 +1,12 @@
+{%- assign pub = include.pub -%}
+<div class="pub">
+<div class="pub-title">{% if pub.links and pub.links.size > 0 %}<a href="{{ pub.links[0].url }}">{{ pub.title }}</a>{% else %}{{ pub.title }}{% endif %}</div>
+<div class="pub-authors">{{ pub.authors | replace: "Haonan Li", "<b>Haonan Li</b>" }}</div>
+<div class="pub-venue"><span class="venue">{{ pub.venue }}</span>{% for b in pub.badges %} <span class="badge{% if b contains 'Award' %} badge-award{% endif %}">{{ b }}</span>{% endfor %}</div>
+{%- if pub.tldr %}
+<div class="pub-tldr"><span class="tldr">TL;DR:</span> {{ pub.tldr }}</div>
+{%- endif %}
+{%- if pub.links and pub.links.size > 0 %}
+<div class="pub-links">{% for l in pub.links %}[<a href="{{ l.url }}">{{ l.name }}</a>]{% unless forloop.last %} {% endunless %}{% endfor %}</div>
+{%- endif %}
+</div>

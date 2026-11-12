@@ -1,0 +1,18 @@
+# Home page news, newest first. `text` is Markdown. Move old items to _pages/about_old_news.md.
+
+- date: Nov 2026
+  text: We released the [Jais 3 technical report](https://arxiv.org/abs/2611.10224), describing how we adapted the K2 Horizon fleet into Arabic-centric agentic models.
+- date: Oct 2026
+  text: '[Pythagoras-Prover](https://arxiv.org/abs/2606.12594), our efficient Lean theorem prover, won the Best Paper Award at the MathNLP Workshop at EMNLP 2026.'
+- date: Oct 2026
+  text: We released [Jais 3](https://huggingface.co/inception42/Jais-3-32B) ([news](https://gulfnews.com/uae/uae-launches-jais-3-arabic-native-ai-for-speech-writing-and-agents-1.500711935)), six open Arabic-centric agentic models (0.9B--375B) built on K2 Horizon, together with an Arabic speech recognition model and 24 Arabic benchmarks. I am the tech lead of the project.
+- date: Sept 2026
+  text: We released [Magenta](https://arxiv.org/abs/2609.11319), a training-free pipeline that pairs LLM reasoning with Lean 4 verification. It reaches 100% on AIME 2025, AIME 2026, and HMMT Feb 2026, and solves all six IMO 2026 problems with K2-Horizon-7B.
+- date: Sept 2026
+  text: We released [K2 Horizon](https://mbzuai.ac.ae/?p=34400), six fully open models from 0.9B to 375B parameters, with weights, code, training data, and methodology released under Apache 2.0.
+- date: Jan 2026
+  text: We released [K2 Think V2](https://mbzuai.ac.ae/news/mbzuai-launches-k2-think-v2-uaes-fully-sovereign-next-generation-reasoning-system/), a 70B reasoning system built on K2-V2 and open end to end, from pre-training data to post-training and evaluation.
+- date: Dec 2025
+  text: We released [K2-V2](https://huggingface.co/LLM360/K2-V2-Instruct), our most capable fully open model to date, and one of the strongest open-weight models in its class. [X](https://x.com/mbzuai/status/1996986508231012502).
+- date: Sept 2025
+  text: We released [K2-think](https://www.k2think.ai/), the world’s fastest open-source AI model and the most advanced open-source AI reasoning system ever created.

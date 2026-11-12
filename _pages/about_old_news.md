@@ -1,8 +1,7 @@
 ---
-layout: archive
+layout: clean
 title: "Old News Archive"
 permalink: /about_old_news/
-author_profile: false
 ---
 
 This page contains archived news items that were previously on the main about page.

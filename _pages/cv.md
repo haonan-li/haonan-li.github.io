@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: clean
 title: "CV"
 permalink: /cv/
 author_profile: true
@@ -9,8 +9,7 @@ redirect_from:
 
 Download my CV as a [PDF](/files/CV_Haonan_1page.pdf).
 
-Education
-======
+## Education
 * Ph.D. in Computer Science (Natural Language Processing), 2018 -- 2022
   * School of Computing and Information Systems, The University of Melbourne, Victoria, Australia
   * Thesis: [Incorporating Structured and Unstructured Information for Geospatial Question Answering](https://minerva-access.unimelb.edu.au/items/6f52ade5-d57f-492f-af08-e18f47f2b895)
@@ -19,8 +18,7 @@ Education
   * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
   * Supervisor: Prof. Hai Zhao
 
-Professional Experience
-======
+## Professional Experience
 * Senior Research Scientist at [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/), June 2025 -- Present
   * Lead a team working on LLM post-training, data creation, agents, and inference.
   * Tech lead of [Jais 3](https://arxiv.org/abs/2611.10224), six open Arabic-centric agentic models adapted from K2 Horizon; first author of the technical report.
@@ -53,12 +51,10 @@ Professional Experience
   * Supervisor: Kuiying Wang and Chunhui Jia
 
 
-Talks & Tutorials
-======
+## Talks & Tutorials
 * Tutorial: [Safety Issues for Generative AI](https://coling2025.org/program/tutorials/#tutorial-7-safety-issues-for-generative-ai), COLING 2025, Abu Dhabi, UAE, January 2025
 
-Awards & Honors
-======
+## Awards & Honors
 * **Best Paper Award**, MathNLP Workshop at EMNLP 2026, for [Pythagoras-Prover](https://arxiv.org/abs/2606.12594)
 * [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) featured in the **Stanford AI Index Report**, 2024
 * LibrAI got **2nd Level Grant**, MBZUAI Incubation and Entrepreneurship Center, 2023 
