@@ -7,10 +7,19 @@ author_profile: false
 
 This page contains archived news items that were previously on the main about page.
 
+## 2025 News Archive
+
+* Aug 2025 --- We released [AgentFly](https://github.com/Agent-One-Lab/AgentFly), an agent training framework. The project is led by PhD student Renxi Wang, and the team will continue improving it. We'd be happy to hear from anyone interested in collaborating or providing feedback.
+* June 2025 --- I joined [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/), working on foundation models with a focus on reasoning model development.
+* Feb 2025 --- We discovered that LLMs don't work well when there are conflicting instructions. See our [paper](https://arxiv.org/abs/2502.15851) for more details.
+* Feb 2025 --- Our work [SCALAR](https://arxiv.org/abs/2502.13753) is out! It's an uncheatable long-context LLM evaluation framework - welcome to use it!
+* Jan 2025 --- We organized a tutorial on [Safety Issues for Generative AI](https://coling2025.org/program/tutorials/#tutorial-7-safety-issues-for-generative-ai) at COLING.
+* Jan 2025 --- We release [Libra-Leaderboard](https://leaderboard.librai.tech/), a leaderboard for LLM evaluation. [Website](https://leaderboard.librai.tech/), [X](https://x.com/haonanlp/status/1875194364399599881), [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7280225099218141184/).
+
 ## 2024 News Archive
 
 * Dec 2024 --- Our Survey paper on AI safety was accepted by [JAIR](https://www.jair.org/index.php/jair). Title: Against The Achilles' Heel: A Survey on Red Teaming for Generative Models. [Paper](https://arxiv.org/abs/2404.00629).
-* Nov 2024 --- We release [Nanda LLM](https://huggingface.co/MBZUAI/Llama-3-Nanda-10B-Chat) a 10B Hindi-English bilingual hashtag#LLM adapted on top of Llama3-8B.  [Paper](https://github.com/mbzuai-nlp/Llama-3-Nanda-10B-Chat/blob/main/Llama-3-Nanda-10B-Chat-Paper.pdf) [LinkedIn](https://www.linkedin.com/posts/monojit-choudhury-54225898_nanda-llm-activity-7257400193447256064-HJ33/)
+* Nov 2024 --- We release [Nanda LLM](https://huggingface.co/MBZUAI/Llama-3-Nanda-10B-Chat) a 10B Hindi-English bilingual LLM adapted on top of Llama3-8B.  [Paper](https://github.com/mbzuai-nlp/Llama-3-Nanda-10B-Chat/blob/main/Llama-3-Nanda-10B-Chat-Paper.pdf) [LinkedIn](https://www.linkedin.com/posts/monojit-choudhury-54225898_nanda-llm-activity-7257400193447256064-HJ33/)
 * Oct 2024 --- We (LibrAI) are participating as exhibitors at [GITEX](https://www.gitex.com/), Dubai.
 * July 2024 --- We (LibrAI) are participating as exhibitors at [WAIC - World Artificial Intelligence Conference](https://www.linkedin.com/company/worldaiconf/). 
 * May 2024 --- I have five co-authored papers accepted by [ACL 2024](https://2024.aclweb.org/), see you in Bangkok, Thailand!

@@ -7,20 +7,26 @@ redirect_from:
   - /resume
 ---
 
-CV can be downloaded [here](/files/CV_Haonan_1page.pdf) (PDF, 1.2MB). Last updated on 2025-01-06.
+Download my CV as a [PDF](/files/CV_Haonan_1page.pdf).
 
 Education
 ======
-* Ph.D Student of Engineering (Natural Language Processing), 2018 -- 2022 
-  * School of Computing and Information systems, The University of Melbourne, Victoria, Australia 
+* Ph.D. in Computer Science (Natural Language Processing), 2018 -- 2022
+  * School of Computing and Information Systems, The University of Melbourne, Victoria, Australia
+  * Thesis: [Incorporating Structured and Unstructured Information for Geospatial Question Answering](https://minerva-access.unimelb.edu.au/items/6f52ade5-d57f-492f-af08-e18f47f2b895)
+  * Supervisors: Prof. Timothy Baldwin, A/Prof. Martin Tomko, Dr. Maria Vasardani
 * B.S. in Engineering (Computer Science), 2013 -- 2017
   * School of Electronic Information and Electrical Engineering, Shanghai Jiao Tong University, Shanghai, China
+  * Supervisor: Prof. Hai Zhao
 
 Professional Experience
 ======
-* Senior Research Scientist at [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/) June 2025 -- Present
-  * Work on LLM post-train, data creation, and agent related research
-  * Core member of [K2-Think](https://www.k2think.ai/) and [K2-V2](https://huggingface.co/LLM360/K2-V2-Instruct).
+* Senior Research Scientist at [MBZUAI-IFM](https://ifm.mbzuai.ac.ae/), June 2025 -- Present
+  * Lead a team working on LLM post-training, data creation, agents, and inference.
+  * Tech lead of [Jais 3](https://arxiv.org/abs/2611.10224), six open Arabic-centric agentic models adapted from K2 Horizon; first author of the technical report.
+  * Core contributor to [K2 Horizon](https://mbzuai.ac.ae/?p=34400), IFM's fully open model fleet (0.9B -- 375B), working on inference and the open-weight release.
+  * Core member of [K2-Think](https://www.k2think.ai/), [K2-V2](https://huggingface.co/LLM360/K2-V2-Instruct), and [K2 Think V2](https://huggingface.co/LLM360/K2-Think-V2): co-led RL training for K2-Think and data curation for K2-V2; proposed the DALU algorithm for long-context RL training.
+  * AI for mathematics with Lean 4 verification: [Magenta](https://arxiv.org/abs/2609.11319), [Pythagoras-Prover](https://arxiv.org/abs/2606.12594), [AoA](https://arxiv.org/abs/2607.16372).
 
 * CTO of [LibrAI](https://www.librai.tech/), 2023 -- June 2025 
   * Non-profit Projects: [Libra-Leaderboard](https://leaderboard.librai.tech/), [Libra-Eval](https://github.com/LibrAIResearch/libra-eval).
@@ -47,8 +53,14 @@ Professional Experience
   * Supervisor: Kuiying Wang and Chunhui Jia
 
 
+Talks & Tutorials
+======
+* Tutorial: [Safety Issues for Generative AI](https://coling2025.org/program/tutorials/#tutorial-7-safety-issues-for-generative-ai), COLING 2025, Abu Dhabi, UAE, January 2025
+
 Awards & Honors
 ======
+* **Best Paper Award**, MathNLP Workshop at EMNLP 2026, for [Pythagoras-Prover](https://arxiv.org/abs/2606.12594)
+* [Do-Not-Answer](https://github.com/Libr-AI/do-not-answer) featured in the **Stanford AI Index Report**, 2024
 * LibrAI got **2nd Level Grant**, MBZUAI Incubation and Entrepreneurship Center, 2023 
 * LibrAI got **Pre-seed Investment**, MiraclePlus, 2023 
 * **Stars of Tomorrow Internship Program Award**, Microsoft Research Asia, 2021
